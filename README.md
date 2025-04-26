@@ -12,10 +12,3 @@ The exercises focus on **basic syntax**, **control structures**, **collections**
 - Basic Object-Oriented Programming (Classes, Methods)
 
 ---
-
-
-```markdown
-![Java](https://img.shields.io/badge/Java-17-blue)
-![OOP](https://img.shields.io/badge/OOP-Principles-important)
-![Collections](https://img.shields.io/badge/Collections-Array_List_Map-green)
-```
